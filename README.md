@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-5.0.0-blue.svg) ![Manifest](https://img.shields.io/badge/manifest-v3-green.svg) ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
-**Novel Scraper Pro** es una potente extensión de Chrome o BRAVE diseñada para capturar, compilar y convertir novelas web en archivos PDF limpios y ordenados, todo desde el lado del cliente (sin servidores externos).
+**Novel Scraper Pro** es una potente extensión de Chrome o BRAVE diseñada para capturar, compilar y convertir novelas ligeras o fanfics en archivos PDF limpios y ordenados, todo desde el lado del cliente (sin servidores externos).
 
 ## 🎥 Demo en Video
 
