@@ -1,7 +1,7 @@
 [<img src="https://images.emojiterra.com/google/android-10/512px/1f1fa-1f1f8.png" width="15"> Read in English](README.en.md)   
 [<img src="https://flagmatch.com/assets/flags/emojis/google/br-9a073877.png" width="15"> Leia em português](README.pt.md)
 
-# 📖 Novel Scraper Pro - Brave & Chrome Extension
+# 📖 Novel Scraper Pro - <img src="https://img.icons8.com/color/512/brave-web-browser.png" width="30"> & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/960px-Google_Chrome_icon_%28February_2022%29.svg.png" width="25"> Extension
 
 ![Version](https://img.shields.io/badge/version-5.0.0-blue.svg) ![Manifest](https://img.shields.io/badge/manifest-v3-green.svg) ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
