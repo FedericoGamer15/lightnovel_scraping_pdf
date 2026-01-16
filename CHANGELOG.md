@@ -5,7 +5,7 @@
 
 Todos los cambios notables de este proyecto serán documentados en este archivo.
 
-## [5.0.0] - Versión Final (Release)
+## [5.0.0] - Versión Final? (Release)
 ### Añadido
 - **Modos PDF:** Ahora puedes elegir entre exportar en "Light Mode" (fondo claro) o "Dark Mode" (fondo oscuro).
 - **Subida Local:** Opción para subir una imagen de portada desde el PC si la web la bloquea.
@@ -40,3 +40,4 @@ Todos los cambios notables de este proyecto serán documentados en este archivo.
 - Generación básica de PDF con `jsPDF`.
 
 - Almacenamiento local en Chrome Storage.
+
