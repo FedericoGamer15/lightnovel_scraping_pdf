@@ -1,3 +1,6 @@
+[<img src="https://images.emojiterra.com/google/android-10/512px/1f1fa-1f1f8.png" width="15"> Read in English](CHANGELOG.en.md)  
+[<img src="https://flagmatch.com/assets/flags/emojis/google/br-9a073877.png" width="15"> Leia em português](CHANGELOG.pt.md)
+
 # Changelog
 
 Todos los cambios notables de este proyecto serán documentados en este archivo.
@@ -35,4 +38,5 @@ Todos los cambios notables de este proyecto serán documentados en este archivo.
 ## [1.0.0] - Prototipo Inicial
 - Funcionalidad básica de selección de elementos (Título, Contenido, Botón Siguiente).
 - Generación básica de PDF con `jsPDF`.
+
 - Almacenamiento local en Chrome Storage.
