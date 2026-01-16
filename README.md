@@ -9,7 +9,9 @@
 ¡Mira lo rápido que funciona! Configuración, scrapeo turbo y generación de PDF en menos de un minuto:
 
 <div align="center">
-  <video src="https://www.youtube.com/watch?v=LZlrEX-9wpg" width="100%" controls autoplay muted></video>
+  <a href="https://www.youtube.com/watch?v=LZlrEX-9wpg">
+    <img src="https://img.youtube.com/vi/LZlrEX-9wpg/maxresdefault.jpg" alt="Ver Video Guía Novel Scraper" width="100%">
+  </a>
 </div>
 
 > *Si el video no carga, [haz clic aquí para verlo](https://www.youtube.com/watch?v=LZlrEX-9wpg).*
